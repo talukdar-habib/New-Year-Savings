@@ -12,7 +12,7 @@ header{
     padding: 0;
 }
 
-/* Banner styles */
+/* Banner style starts here */
 
 .banner-container{
     width: 1300px;
@@ -48,3 +48,44 @@ header{
     font-size: 72px;
     font-weight: 900;
 }
+
+/* Banner style ends here */
+
+
+/* second-section style starts here */
+
+#second-section-container{
+    /* border: 1px solid black; */
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.second-section-title{
+    font-size: 88px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    color: red;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.second-section-description{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    color: red;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.second-section-subtitle{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin-bottom: 45px;
+}
+/* second-section style ends here */
