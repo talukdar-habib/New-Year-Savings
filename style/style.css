@@ -90,7 +90,7 @@ header{
 }
 /* second-section style ends here */
 
-/* midnight party section starts here */
+/* midnight party section style starts here */
 
 #third-section-container{
     width: 1300px;
@@ -135,4 +135,49 @@ header{
     padding: 45px 0 140px 155px;
 }
 
-/* midnight party section ends here */
+/* midnight party section style ends here */
+
+
+/* Hotel event section style starts here */
+
+#fourth-section-container{
+    width: 1300px;
+    height: 480px;
+    margin: 0 auto;
+    background-image: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    border-radius: 16px;
+    margin-bottom: 120px;
+    /* border: 1px solid black; */
+}
+
+.fourth-section-content{
+    padding: 100px 380px 210px 380px;
+    text-align: center;
+}
+
+.fourth-section-content h4{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 50px;
+    font-family: "Inter", sans-serif;
+}
+
+.fourth-section-content span{
+    color: red;
+}
+
+.fourth-section-content button{
+    margin-top: 45px;
+    font-size: 20px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    color: white;
+    background-color: red;
+    font-family: "Inter", sans-serif;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+/* Hotel event section style ends here */
