@@ -179,5 +179,76 @@ header{
 }
 
 
-
 /* Hotel event section style ends here */
+
+
+/* Best offer section style starts gere */
+
+#best-offer-container{
+    width: 1300px;
+    height: 460px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 120px;
+    /* border: 1px solid black; */
+}
+
+#best-offer-container h5{
+    color: red;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 16px;
+}
+
+#best-offer-container h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: "Merriweather", serif;
+    margin-bottom: 22px;
+}
+
+#best-offer-container p{
+    color: #070211;
+    /* color: rgba(7, 2, 17, 0.6); */
+    opacity: 60%;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+}
+
+.candle-img{
+    width: 460px;
+    height: 460px;
+    border: 10px solid red;
+    box-sizing: border-box;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.candle-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.year-title{
+    color: red;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    margin-bottom: 16px;
+}
+
+.year-description{
+    color: #070211;
+    opacity: 60%;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+/* Best offer section style ends gere */
