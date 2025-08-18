@@ -252,3 +252,15 @@ header{
 }
 
 /* Best offer section style ends gere */
+
+
+/* Holiday section style starts here */
+
+#holiday-container{
+    width: 1300px;
+    height: 980px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Holiday section style ends here */
